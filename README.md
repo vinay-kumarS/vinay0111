@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @vinay0111
-- 👀 I’m interested in basic level coding using c
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ..
+- 👋 Hi, I’m @vinaykumar
+- 👀 I’m interested to be a Developer
+- 🌱 I’m currently learning web development
 - 📫 How to reach me on my instagram vinays.01 
 
 <!---
