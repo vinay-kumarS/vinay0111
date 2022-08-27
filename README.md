@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinaykumar
-- 👀 I’m interested to be a Developer
+- 👀 I wanted to be a Developer
 - 🌱 I’m currently learning web development
 - 📫 How to reach me on my instagram vinays.01 
 
